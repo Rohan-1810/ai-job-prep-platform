@@ -157,58 +157,5 @@ GEMINI_API_KEY=your_google_gemini_api_key
 VITE_API_BASE_URL=http://localhost:5000/api
 ```
 
-## 📸 13. Screenshots Section
-*(Add screenshots of your application here)*
 
-| Login Page | Dashboard |
-| :---: | :---: |
-| ![Login Placeholder](https://via.placeholder.com/400x250?text=Login+Screen) | ![Dashboard Placeholder](https://via.placeholder.com/400x250?text=Dashboard+Screen) |
-
-| Interview Session | Feedback Report |
-| :---: | :---: |
-| ![Interview Placeholder](https://via.placeholder.com/400x250?text=Interview+Session) | ![Report Placeholder](https://via.placeholder.com/400x250?text=Feedback+Report) |
-
-## 🚀 14. Future Improvements
-- [ ] Implement Voice-to-Text for a truly conversational interview experience.
-- [ ] Add more specialized domains (e.g., Marketing, Finance).
-- [ ] Implement a peer-to-peer mock interview matching system.
-- [ ] Integrate real-time code execution for technical rounds.
-
-## 🧗 15. Challenges Faced During Development
-- **AI Prompt Tuning:** Ensuring the AI generates diverse, non-repetitive, and role-specific questions required extensive prompt engineering and testing.
-- **PDF Generation Layouts:** Converting complex HTML/CSS dashboards into properly paginated PDFs via Puppeteer was challenging but eventually solved using specific print stylesheets.
-- **State Management:** Coordinating the real-time flow of the interview, loading states, and AI processing required robust state handling on the React frontend.
-
-## 🎓 16. Learning Outcomes
-- Deepened understanding of integrating large language models (LLMs) into standard web applications.
-- Mastered advanced file handling, from parsing user uploads to generating downloadable files on the server.
-- Improved skills in building responsive, accessible, and high-performance React applications with Vite.
-
-## 🌐 17. Deployment Link Section
-- **Live Demo:** [Insert Vercel/Netlify/Render Link Here]
-- **Frontend Hosted on:** Vercel (Placeholder)
-- **Backend Hosted on:** Render (Placeholder)
-- **Database Hosted on:** MongoDB Atlas
-
-## 🤝 18. Contribution Guidelines
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## ❓ 19. FAQ & Troubleshooting
-**Q: The backend is failing to connect to the database.**
-*A: Ensure your MongoDB server is running and the `MONGODB_URI` in your backend `.env` is correct.*
-
-**Q: AI is not generating questions.**
-*A: Check if your `GEMINI_API_KEY` is valid and hasn't exceeded its quota limits.*
-
-## 👤 20. Author
-**[Your Name / Username]**
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [Your Portfolio Website]
-
-## 📝 21. License
 Distributed under the MIT License. See `LICENSE` for more information.
