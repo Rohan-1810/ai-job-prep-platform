@@ -9,13 +9,12 @@
 <br />
 
 ## 📖 1. Short Project Description
-An intelligent, full-stack AI Job Preparation Platform designed to help candidates ace their interviews. It features AI-driven mock interviews, resume parsing, and detailed performance reports. By leveraging generative AI, this platform simulates real-world interview scenarios and provides constructive feedback.
+An intelligent, full-stack AI Job Preparation Platform designed to help candidates ace their interviews. It features AI-driven, resume parsing, and detailed performance reports. By leveraging generative AI, this platform simulates real-world interview scenarios and provides constructive feedback.
 
 ## 🎯 2. Problem Statement
 Job seekers often lack access to realistic, tailored mock interviews and actionable feedback. Traditional preparation methods are generic and fail to adapt to a candidate's specific industry, role, or resume. This platform solves this by offering personalized, AI-powered mock interviews that dynamically adjust based on the user's profile and performance.
 
 ## ✨ 3. Features
-- **🤖 AI Mock Interviews:** Dynamic and conversational interview simulations using Google Generative AI.
 - **📄 Resume Parsing:** Extracts key skills and experience from uploaded resumes (PDF) to tailor questions.
 - **📊 Comprehensive Reports:** Generates detailed feedback reports with performance metrics and areas for improvement.
 - **🔒 Secure Authentication:** JWT-based secure user registration and login.
